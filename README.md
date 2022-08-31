@@ -20,7 +20,6 @@ Using the polymorphism model, design a class diagram to handle the situation des
 
 ![alt text](https://github.com/ilkerkaracaa/OOPDesignTutorial/blob/master/zooManagement.jpg)
 
-https://github.com/ilkerkaracaa/OOPDesignTutorial/blob/master/flightManagementSystem.jpg
 
 ## 2) Flight Management System
 Design a system for the management of flights and pilots.
