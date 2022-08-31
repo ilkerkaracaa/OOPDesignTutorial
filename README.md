@@ -4,7 +4,6 @@
 ### Source : https://app.patika.dev/courses/oop
 ----------------------------------------------------------
 ## 1) Zoo Management
------------------
 You design a system to track information about animals in a zoo.
 
 Animals:
