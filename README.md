@@ -19,5 +19,7 @@ The logic for the system to perform these functions will be different for each g
 
 Using the polymorphism model, design a class diagram to handle the situation described above.
 
+![alt text](https://github.com/ilkerkaracaa/OOPDesignTutorial/blob/master/zooManagement.jpg)
+
 ## 2) Flight Management System
 ---------------------------
