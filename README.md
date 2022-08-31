@@ -6,7 +6,6 @@ Modeling various problems with Object-Oriented Programming
 You design a system to track information about animals in a zoo.
 
 Animals:
-
 Horses (horses, zebras, donkeys, etc.),
 Felines (tigers, lions, etc.),
 It is characterized by species in groups such as rodents (rats, beavers, etc.).
