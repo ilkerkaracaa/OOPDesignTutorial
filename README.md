@@ -3,7 +3,7 @@
 
 ### Source : https://app.patika.dev/courses/oop
 ----------------------------------------------------------
-##1) Zoo Management
+## 1) Zoo Management
 -----------------
 You design a system to track information about animals in a zoo.
 
@@ -19,5 +19,5 @@ The logic for the system to perform these functions will be different for each g
 
 Using the polymorphism model, design a class diagram to handle the situation described above.
 
-##2) Flight Management System
+## 2) Flight Management System
 ---------------------------
