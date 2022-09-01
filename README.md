@@ -63,4 +63,4 @@ Try to use the principles of Object Oriented Programming and relations between c
 
 The simulator uses a "clock" to simulate real time lapse and timestamp and log events that occur in the simulation. A random number generator is used by the simulator to generate passengers and determine the departure and arrival floors for each passenger.
 
-![alt text]()
+![alt text](https://github.com/ilkerkaracaa/OOPDesignTutorial/blob/master/elevatorSimulation.jpg)
